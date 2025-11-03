@@ -35,18 +35,18 @@ BDD/TDD • E2E Testing • API Testing • Regression Testing • CI/CD
 ### AI_Resume_Critiquer
 AI-powered tool that analyzes your resume and provides **actionable feedback** for any job role using **Large Language Models (LLM)** via the **OpenAI API**.
 
-**🚀 Features
+Features
 - Upload your resume (PDF or TXT)  
 - Get AI-generated feedback on structure, content, and formatting  
 - Focused advice tailored for any job role
 - 
-**🛠️ Tech Stack
+Tech Stack
 - **Python** – core programming language  
 - **Streamlit** – interactive web app interface  
 - **OpenAI API** – LLM for analyzing resumes  
 - **PyPDF2** – parsing PDF resumes
 - 
-** 📂 How It Works
+How It Works
 1. User uploads a resume.  
 2. The app extracts text from PDF or TXT files.  
 3. OpenAI LLM generates feedback on resume content.  
