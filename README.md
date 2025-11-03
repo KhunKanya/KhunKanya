@@ -32,7 +32,7 @@ BDD/TDD • E2E Testing • API Testing • Regression Testing • CI/CD
 ---
 
 ## 🚀 Featured Projects
-### AI_Resume_Critiquer
+### [AI_Resume_Critiquer](https://github.com/KhunKanya/AI-Resume-Critiquer-project)
 AI-powered tool that analyzes your resume and provides **actionable feedback** for any job role using **Large Language Models (LLM)** via the **OpenAI API**.
 
 Features
